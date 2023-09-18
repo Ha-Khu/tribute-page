@@ -15,7 +15,7 @@ main {
 
 #img-div {
   width: 95%;
-  height: auto;
+  height: 525px;
   margin: 10px auto;
   background-color: white;
 }
@@ -29,4 +29,10 @@ img {
   max-width: 100%;
   height: auto;
   margin: 20px auto;
+}
+
+#tribute-info {
+  margin: 50px 0;
+  font-size: 25px;
+  font-weight: 750;
 }
