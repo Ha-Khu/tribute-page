@@ -13,3 +13,20 @@ main {
   background-color: rgb(235, 233, 233);
 }
 
+#img-div {
+  width: 95%;
+  height: auto;
+  margin: 10px auto;
+  background-color: white;
+}
+
+img {
+  display: block;
+}
+
+#image {
+  width: 95%;
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto;
+}
