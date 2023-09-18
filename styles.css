@@ -36,3 +36,18 @@ img {
   font-size: 25px;
   font-weight: 750;
 }
+
+ul {
+  text-align: left;
+  width: 70%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+li {
+  margin: 20px;
+}
+
+span {
+  font-weight: 750;
+}
